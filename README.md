@@ -1,8 +1,6 @@
 # Hi there, I'm Rachana 👋
 
-I'm a software engineer with 3.5 years of professional experience in building and scaling enterprise applications. I am currently a Master's student in Computer Science at the University at Buffalo, deepening my expertise in full-stack development, AI, and distributed systems.
-
-My expertise lies in backend architecture, DevOps, and database optimization, but I am passionate about the entire product lifecycle.
+I'm a software engineer with 3.5 years of professional experience in building and scaling enterprise applications. My expertise spans the **entire product lifecycle**, from **full-stack development** and **backend architecture** to **DevOps** and **database optimization**. I am currently a Master's student in Computer Science at the University at Buffalo, deepening my expertise in AI and distributed systems.
 
 ---
 
