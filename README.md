@@ -1,15 +1,18 @@
-# Hi there, I'm Rachana 
+# Hi there, I'm Rachana 👋
 
 Software Engineer with **4+ years of experience building scalable APIs, microservices, and distributed systems** across JavaScript, Python, and C# ecosystems.
 
-Currently pursuing a **Master’s in Computer Science at the University at Buffalo (SUNY)**, focusing on Distributed architecure and AI systems.
+🎓 Master of Science in Computer Science  
+University at Buffalo, SUNY
+
+I specialize in architecting high-availability backend systems, optimizing data infrastructure, and building AI-powered distributed applications deployed to production.
 
 ---
 
 ## 🚀 What I Do
 
-- Architect high-availability backend systems
-- Design event-driven microservices
+- Architect scalable backend microservices
+- Design event-driven distributed systems
 - Optimize enterprise-scale databases (100+ stored procedures refactored)
 - Build production-grade CI/CD pipelines
 - Develop AI-powered systems using RAG and agentic workflows
