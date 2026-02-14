@@ -1,4 +1,4 @@
-# Hi there, I'm Rachana 👋
+# Hi there, I'm Rachana 
 
 Software Engineer with **4+ years of experience building scalable APIs, microservices, and distributed systems** across JavaScript, Python, and C# ecosystems.
 
