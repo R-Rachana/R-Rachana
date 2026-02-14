@@ -2,7 +2,7 @@
 
 Software Engineer with **4+ years of experience building scalable APIs, microservices, and distributed systems** across JavaScript, Python, and C# ecosystems.
 
-Currently pursuing a **Master’s in Computer Science at the University at Buffalo (SUNY)**, focusing on AI systems and distributed architecture.
+Currently pursuing a **Master’s in Computer Science at the University at Buffalo (SUNY)**, focusing on Distributed architecure and AI systems.
 
 ---
 
